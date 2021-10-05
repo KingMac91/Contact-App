@@ -2,6 +2,7 @@
 let filterInput = document.getElementById('filterInput');
 
 //add event listener
+//
 filterInput.addEventListener('keyup', filter);
 
 function filter() {
